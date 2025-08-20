@@ -1,21 +1,21 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Portfolio - Ritesh",
+  "name": "Ritesh Chaudhari - Portfolio App",
   "icons": [
     {
       "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "49x64 24x32 18x24 12x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "logo-r192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "148x192"
     },
     {
-      "src": "logo512.png",
+      "src": "logo-r512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "397x512"
     }
   ],
   "start_url": ".",
